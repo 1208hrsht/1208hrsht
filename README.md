@@ -16,7 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1208hrsht&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
-  <br/>
 <h2 align="center">
 <a href="https://www.linkedin.com/in/1208harshit/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:1208hrsht@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
